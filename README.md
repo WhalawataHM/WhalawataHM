@@ -1,9 +1,10 @@
 ## Hey there, curious coder 👋
+![Coding GIF](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 Welcome to my little corner of the internet — **WhalawataHM**'s GitHub profile!  
 Yes, that's me, the human behind the keyboard (and occasionally a confused expression when my code doesn't work).
 
-![Coding GIF]([https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif))
+![grimcad](https://octodex.github.com/images/grim-repo.jpg)
 
 ---
 
@@ -12,7 +13,7 @@ Yes, that's me, the human behind the keyboard (and occasionally a confused expre
 - 🔭 Currently working on turning coffee into software.
 - 🌱 Learning new tech stacks like a Pokémon trainer collects badges.
 - 📈 Trying to make my GitHub graph greener than my neighbor's lawn.
-
+  ![me](https://octodex.github.com/suftocat/)
 ---
 
 ### ⚒️ Tools & Tech I Wield:
@@ -39,7 +40,7 @@ Yes, that's me, the human behind the keyboard (and occasionally a confused expre
 - Believe it or not — I once coded for 6 hours straight without realizing my coffee cup was empty. **A true tragedy.**
 
 ---
-
+![fungif](https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif)
 ### 📊 GitHub Stats:
 
 ![WhalawataHM's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhalawataHM&show_icons=true&theme=tokyonight)
