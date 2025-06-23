@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hey there, curious coder 👋
 
-<!--
-**WhalawataHM/WhalawataHM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my little corner of the internet — **WhalawataHM**'s GitHub profile!  
+Yes, that's me, the human behind the keyboard (and occasionally a confused expression when my code doesn't work).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧙‍♂️ About Me:
+- 🎨 Code artist by day, meme curator by night.
+- 🔭 Currently working on turning coffee into software.
+- 🌱 Learning new tech stacks like a Pokémon trainer collects badges.
+- 📈 Trying to make my GitHub graph greener than my neighbor's lawn.
+
+---
+
+### ⚒️ Tools & Tech I Wield:
+```python
+Languages = ["Python", "JavaScript", "HTML", "CSS", "C#", "SQL"]
+Frameworks = ["React", "Flask", "Tkinter"]
+Tools = ["VS Code", "Git", "Figma", "Photoshop", "Arduino IDE"]
