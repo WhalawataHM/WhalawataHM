@@ -30,7 +30,7 @@ Yes, that's me, the human behind the keyboard (and occasionally a confused expre
 - 🐦 Still figuring out how to tweet properly.
 - 🎮 Can probably beat you at *any* game... or at least pretend I can.
 
-![Game GIF](https://media.giphy.com/media/l0HlRmB9bV9X1e0VW/giphy.gif)
+![Game GIF](https://i.gifer.com/T9aF.gif)
 
 ---
 
