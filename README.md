@@ -53,4 +53,4 @@ Yes, that's me, the human behind the keyboard (and occasionally a confused expre
 If you made it this far, you deserve a cookie 🍪  
 Now go check out my repos — some are half-baked ideas, others might just surprise you!
 
-![Bye GIF](https://media.giphy.com/media/xT5LMDUhXcVv4vL2uk/giphy.gif)
+![Bye GIF]([https://media.giphy.com/media/xT5LMDUhXcVv4vL2uk/giphy.gif](https://i.gifer.com/XwI4.gif))
