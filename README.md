@@ -43,7 +43,7 @@ Yes, that's me, the human behind the keyboard (and occasionally a confused expre
 ![fungif](https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif)
 ### 📊 GitHub Stats:
 
-![WhalawataHM's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhalawataHM&show_icons=true&theme=tokyonight)
+![WhalawataHM's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhalawataHM&show_icons=true&theme=tokyonight) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhalawataHM&layout=compact&theme=tokyonight)
 
