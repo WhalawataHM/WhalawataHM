@@ -4,7 +4,7 @@
 Welcome to my little corner of the internet — **WhalawataHM**'s GitHub profile!  
 Yes, that's me, the human behind the keyboard (and occasionally a confused expression when my code doesn't work).
 
-![grimcad](https://octodex.github.com/images/privateinvestocat.jpg)
+![grimcad](https://octodex.github.com/images/NUX_Octodex.gif)
 
 ---
 
