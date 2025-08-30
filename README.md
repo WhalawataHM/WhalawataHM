@@ -4,7 +4,7 @@
 Welcome to my little corner of the internet — **WhalawataHM**'s GitHub profile!  
 Yes, that's me, the human behind the keyboard (and occasionally a confused expression when my code doesn't work).
 
-![grimcad](https://octodex.github.com/images/NUX_Octodex.gif)
+![grimcad](https://octodex.github.com/images/inspectocat.jpg)
 
 ---
 
@@ -13,7 +13,7 @@ Yes, that's me, the human behind the keyboard (and occasionally a confused expre
 - 🔭 Currently working on turning coffee into software.
 - 🌱 Learning new tech stacks like a Pokémon trainer collects badges.
 - 📈 Trying to make my GitHub graph greener than my neighbor's lawn.
-  ![me](https://octodex.github.com/suftocat/)
+![me](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW9qMGR2aTl5bGNxNmlqaWlybW0yMmxhY2E1ODJjM2owY2o1azI2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26gssNZ4EF6c8Simk/giphy.gif)
 ---
 
 ### ⚒️ Tools & Tech I Wield:
